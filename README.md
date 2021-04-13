@@ -1,2 +1,2 @@
 # GIT_FOLDER
-This is an example git project.     
+This is an example git project.
