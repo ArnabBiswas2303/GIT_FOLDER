@@ -1,2 +1,2 @@
 # GIT_FOLDER
-This is a test pull request.
+This is an example git project.
